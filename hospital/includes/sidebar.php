@@ -21,7 +21,10 @@
             Citas
         </a>
 
-        
+        <a href="/hospital/citas/listar.php">
+            <i class="fa-solid fa-calendar-days"></i>
+            Citas
+        </a>
 
     </nav>
 
