@@ -26,6 +26,11 @@
             Citas
         </a>
 
+         <a href="/hospital/pacientes/listar.php">
+            <i class="fa-solid fa-user-injured"></i>
+            Pacientes
+        </a>
+
     </nav>
 
 </aside>
